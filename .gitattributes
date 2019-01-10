@@ -15,5 +15,5 @@ moc_fileio.cpp linguist-vendored
 moc_fileio.o linguist-vendored
 moc_predefs.h linguist-vendored
 nnui.pro.user linguist-vendored
-MakeFile linguist-vendored
+Makefile linguist-vendored
 nnui.pro linguist-vendored
