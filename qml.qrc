@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/pso.gif</file>
+        <file>images/ParticleSwarmArrowsAnimation.gif</file>
+        <file>images/iris.png</file>
+        <file>images/Iris_setosa.jpg</file>
+        <file>images/Iris_versicolor.jpg</file>
+        <file>images/Iris_virginica.jpg</file>
+    </qresource>
+</RCC>
